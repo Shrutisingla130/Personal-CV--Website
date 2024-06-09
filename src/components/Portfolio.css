@@ -1,0 +1,35 @@
+/* .aa1,.aa2{
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+ {
+    height: 50%;
+    width: 50%;
+    margin: 5px;
+    background: url("C:\Users\shrut\OneDrive\Desktop\portfolio\personal-portfolio\public\travel-022.jpg");
+    background-size: cover; */
+
+/* .card-img-top{
+    width: 100%;
+} */
+.card {
+  margin-bottom: 20px;
+}
+
+h1{
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+.abcd{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: flex-start; */
+
+    /* position: relative; */
+    /* max-width: 50%; */
+    width: 500px;
+    height: 600px;
+}
